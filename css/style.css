@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+#nav-c{
+    margin:0;
+    padding:0;
+    box-shadow: inset;
+    
+}
+#nav-css{
+    background-color: #eca900; !important;
+    margin:0;
+    
+}
+#bannertxt{
+   margin-top: 13px;
+}
+#footerone{
+    background-color: #eca900; !important;
+    padding:20px 10px;
+    
+}
